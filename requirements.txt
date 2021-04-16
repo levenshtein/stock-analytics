@@ -1,0 +1,2 @@
+investpy>=0.9.6
+click>=7.1.2
